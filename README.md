@@ -1,0 +1,2 @@
+# sambungayat
+Game sambung ayat
